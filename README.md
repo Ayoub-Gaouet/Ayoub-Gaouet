@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **gaouetayoub1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ayoub-gaouet/details/featured/1635536162800/single-media-viewer/?profileId=ACoAADf7JvMBrdLVp1ksrGc_RrVOpUplQ0VEvsI](https://www.linkedin.com/in/ayoub-gaouet/details/featured/1635536162800/single-media-viewer/?profileId=ACoAADf7JvMBrdLVp1ksrGc_RrVOpUplQ0VEvsI)
+- 📄 Know about my experiences [https://github.com/Ayoub-Gaouet/Ayoub-Gaouet/blob/main/cv%20(3).pdf](https://github.com/Ayoub-Gaouet/Ayoub-Gaouet/blob/main/cv%20(3).pdf)
 
 - ⚡ Fun fact **I think I am Funny**
 
