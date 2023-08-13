@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **gaouetayoub1@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Ayoub-Gaouet/Ayoub-Gaouet/blob/main/cv%20(3).pdf](https://github.com/Ayoub-Gaouet/Ayoub-Gaouet/blob/main/cv%20(3).pdf)
+- 📄 Know about my experiences [https://github.com/Ayoub-Gaouet/Ayoub-Gaouet/blob/main/cv.pdf](https://github.com/Ayoub-Gaouet/Ayoub-Gaouet/blob/main/cv.pdf)
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
